@@ -6,7 +6,7 @@ The project explores a more product-oriented frontend than my usual backend work
 
 ## Demo
 
-urlLive demohttps://meme-gen-ltw.vercel.app
+[Live demo](https://meme-gen-ltw.vercel.app)
 
 ## Features
 
